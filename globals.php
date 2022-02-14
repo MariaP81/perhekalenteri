@@ -21,9 +21,12 @@
       "name" => "Satisfy",
       "url"  => "https://fonts.googleapis.com/css2?family=Satisfy&display=swap"),
     "sigmarone" => array(
-      "name" => "Sigmar One",
-      "url"  => "https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap")
-  );
+        "name" => "Sigmar One",
+        "url"  => "https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap"),
+    "titanone" => array(
+        "name" => "Titan One",
+        "url"  => "https://fonts.googleapis.com/css2?family=Titan+One&display=swap")
+    );
 
   // Otsakkeen taustat aakkosjärjestyksessä.
   //   name  = Taustan nimi, joka näkyy listassa.
@@ -158,5 +161,6 @@
 
   // Nimilistan esimerkkinimet.
   $defaultnames = "Pekka\nHanna-Leena\nSamuel\nJoel\nMirjam";
+
 
 ?>
