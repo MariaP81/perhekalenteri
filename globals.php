@@ -129,6 +129,11 @@
       "name"  => "Vadelmat",
       "color" => "#faa7b9",
       "image" => "backgrounds/vadelmat.jpg"
+    ),
+    "maisema" => array(
+      "name"  => "Maisema",
+      "color" => "#00FFFF",
+      "image" => "backgrounds/maisema.jpg"
     )
   );
 
